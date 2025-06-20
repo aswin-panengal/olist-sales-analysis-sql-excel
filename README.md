@@ -53,4 +53,7 @@ This project demonstrates my ability to:
 - Generate business-level insights from data
 
 This project was completed as part of my analytics portfolio to demonstrate Excel and SQL integration.
+---
+Note: To keep this repository lightweight, only the final Excel dashboard is included. All pivot tables and Power Query steps were performed in the background to generate this output.
+
 
